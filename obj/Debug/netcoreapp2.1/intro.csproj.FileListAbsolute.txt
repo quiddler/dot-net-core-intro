@@ -1,0 +1,11 @@
+/Users/eliot/Developer/c#/dot_net_core_2/intro/bin/Debug/netcoreapp2.1/intro.deps.json
+/Users/eliot/Developer/c#/dot_net_core_2/intro/bin/Debug/netcoreapp2.1/intro.runtimeconfig.json
+/Users/eliot/Developer/c#/dot_net_core_2/intro/bin/Debug/netcoreapp2.1/intro.runtimeconfig.dev.json
+/Users/eliot/Developer/c#/dot_net_core_2/intro/bin/Debug/netcoreapp2.1/intro.dll
+/Users/eliot/Developer/c#/dot_net_core_2/intro/bin/Debug/netcoreapp2.1/intro.pdb
+/Users/eliot/Developer/c#/dot_net_core_2/intro/obj/Debug/netcoreapp2.1/intro.csprojAssemblyReference.cache
+/Users/eliot/Developer/c#/dot_net_core_2/intro/obj/Debug/netcoreapp2.1/intro.csproj.CoreCompileInputs.cache
+/Users/eliot/Developer/c#/dot_net_core_2/intro/obj/Debug/netcoreapp2.1/intro.AssemblyInfoInputs.cache
+/Users/eliot/Developer/c#/dot_net_core_2/intro/obj/Debug/netcoreapp2.1/intro.AssemblyInfo.cs
+/Users/eliot/Developer/c#/dot_net_core_2/intro/obj/Debug/netcoreapp2.1/intro.dll
+/Users/eliot/Developer/c#/dot_net_core_2/intro/obj/Debug/netcoreapp2.1/intro.pdb
